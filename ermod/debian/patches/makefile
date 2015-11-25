@@ -1,8 +1,8 @@
 --- a/Makefile.am
 +++ b/Makefile.am
-@@ -6,7 +6,7 @@
- 	tools/gromacs/gen_structure tools/gromacs/gen_input \
- 	tools/AMBER/gen_structure tools/AMBER/gen_input
+@@ -9,7 +9,7 @@
+ 	tools/LAMMPS/gen_structure tools/LAMMPS/gen_input \
+ 	tools/CHARMM/gen_structure tools/CHARMM/gen_input
  
 -dist_pkglibexec_SCRIPTS = vmdplugins/libexec/*.so
 +dist_pkglibexec_SCRIPTS = vmdplugins/compile/*.so
@@ -11,9 +11,9 @@
  
 --- a/Makefile.in
 +++ b/Makefile.in
-@@ -243,7 +243,7 @@
- 	tools/gromacs/gen_structure tools/gromacs/gen_input \
- 	tools/AMBER/gen_structure tools/AMBER/gen_input
+@@ -247,7 +247,7 @@
+ 	tools/LAMMPS/gen_structure tools/LAMMPS/gen_input \
+ 	tools/CHARMM/gen_structure tools/CHARMM/gen_input
  
 -dist_pkglibexec_SCRIPTS = vmdplugins/libexec/*.so
 +dist_pkglibexec_SCRIPTS = vmdplugins/compile/*.so
