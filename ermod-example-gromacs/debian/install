@@ -1,0 +1,1 @@
+README *.gro *.top *.mdp *.log *.xtc	/usr/share/ermod/example/gromacs

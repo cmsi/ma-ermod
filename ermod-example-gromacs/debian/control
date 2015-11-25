@@ -1,0 +1,12 @@
+Source: ermod-example-gromacs
+Section: scientific
+Priority: extra
+Maintainer: Synge Todo <wistaria@phys.s.u-tokyo.ac.jp>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.3
+Homepage: http://sourceforge.net/projects/ermod
+
+Package: ermod-example-gromacs
+Architecture: all
+Depends: ermod
+Description: Example Gromacs trajectory file for ERmod tutorial

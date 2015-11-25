@@ -1,0 +1,10 @@
+--- a/configure
++++ b/configure
+@@ -6331,6 +6331,7 @@
+ else
+   my_fc_opt_accept_native=no
+ fi
++my_fc_opt_accept_native=no
+ rm -f core conftest.err conftest.$ac_objext conftest.$ac_ext
+ echo -n $my_fc_opt_accept_native
+ FCFLAGS=$save_FCFLAGS

@@ -1,0 +1,5 @@
+ermod-example-gromacs (20120406-1) wheezy; urgency=low
+
+  * Initial version of ermod-example-gromacs package
+
+ -- Synge Todo <wistaria@phys.s.u-tokyo.ac.jp>  Mon, 15 Sep 2014 22:37:00 +0900
