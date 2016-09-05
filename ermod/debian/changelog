@@ -1,3 +1,9 @@
+ermod (0.3.4-1) UNRELEASED; urgency=low
+
+  * New upstream release 0.3.4
+
+ -- Synge Todo <wistaria@phys.s.u-tokyo.ac.jp>  Mon, 05 Sep 2016 10:24:09 +0900
+
 ermod (0.3.3-1) wheezy; urgency=low
 
   * New upstream release 0.3.3
