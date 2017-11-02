@@ -26,4 +26,4 @@ override_dh_auto_build:
 
 override_dh_fixperms:
 	dh_fixperms
-	chmod +x debian/ermod/usr/lib/ermod/ermod/*.so
+	chmod +x debian/ermod/usr/lib/*/ermod/*.so
